@@ -1,0 +1,81 @@
+/*icon sizes*/
+
+	.size-12 { font-size: 12px; }
+
+	.size-14 { font-size: 14px; }
+
+	.size-16 { font-size: 16px; }
+
+	.size-18 { font-size: 18px; }
+
+	.size-21 { font-size: 21px; }
+
+	.size-24 { font-size: 24px; }
+	.size-30 { font-size: 30px; }
+	.size-36 { font-size: 36px; }
+
+	.size-48 { font-size: 48px; }
+
+	.size-60 { font-size: 60px; }
+
+	.size-72 { font-size: 72px; }
+* {
+	font-family: 'Kadwa', serif;
+}
+h1 {
+	font-family: 'Kadwa', serif;
+	text-align: center;
+}
+.white{
+	color:white;
+}
+a {
+	font-family: 'Kadwa', serif;
+}
+p {
+	font-family: 'Kadwa', serif;
+	text-align: center;
+}
+h3 {
+	font-family: 'Kadwa', serif;
+	text-align: center;
+}
+body {
+font-family: 'Kadwa', serif;
+}
+
+i {
+	padding: 50px;
+}
+
+.sub-nav{
+    margin: 0 auto !important;
+    width: -webkit-fit-content;
+       width: -moz-fit-content;
+            width: fit-content;
+    }
+
+.magellan-nav {
+  right: 0;
+}
+
+.night {
+	height: 600px;
+	background-image: url(../img/night.jpg);
+	background-size: cover;
+}
+
+.goal {
+	height: 600px;
+	background-image: url(../img/goal.png);
+	background-size: cover;
+}
+.times {
+	height: 600px;
+	background-image: url(../img/square.jpg);
+	background-size: cover;
+}
+
+.info {
+	padding-top: 10%;
+}
